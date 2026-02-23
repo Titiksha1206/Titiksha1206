@@ -39,31 +39,40 @@ I enjoy building **robust backend services**, clean UIs, and writing **maintaina
 
 ## 🛠️ Tech Stack (Production‑Focused)
 
+
 ### 👩‍💻 Languages
-https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
-https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
-https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 
 ### ⚙️ Backend
-https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white
-https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white
-https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white
-https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge
-https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-404d59?style=for-the-badge"/>
+
+
 
 ### 🎨 Frontend
-https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
-https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB
-https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 
-### 🛢️ Databases & Tools
-https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white
-https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white
-https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white
-https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white
-https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white
+
+
+### 🛢️ Databases
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+### 🧰 Tools
+<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 
 ---
+
 
 ## 📌 Selected Work / Projects
 
@@ -81,18 +90,19 @@ https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&log
 
 ---
 
-## 📊 GitHub Activity
 
+## 📊 GitHub Stats
 <p align="center">
-  https://github-readme-stats.vercel.app/api?username=Titiksha1206&theme=tokyonight&show_icons=true
-  https://nirzak-streak-stats.vercel.app/?user=Titiksha1206&theme=tokyonight
+  <img src="https://github-readme-stats.vercel.app/api?username=Titiksha1206&theme=tokyonight&show_icons=true"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Titiksha1206&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  https://github-readme-stats.vercel.app/api/top-langs/?username=Titiksha1206&layout=compact&theme=tokyonight
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Titiksha1206&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
