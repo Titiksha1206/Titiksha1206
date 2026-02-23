@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Titiksha Gupta</h1>
 <h3 align="center">Software Engineer @ LTIMindtree |JAVA Full‑Stack Developer</h3>
 
+
 <p align="center">
-  https://www.linkedin.com/in/titiksha-gupta-cse/
-    https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white
+  <a href="https://www.linkedin.com/in/titiksha-gupta-cse/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  titiksha1206@gmail.com
-    https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white
+  <a href="mailto:titiksha1206@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -93,5 +94,10 @@ https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&log
 
 ---
 
-## ✍️ Random Dev Quote
-https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Titiksha1206&limit=5&theme=dark&combine_all_yearly_contributions=true)
