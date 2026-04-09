@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Titiksha Gupta</h1>
-<h3 align="center">Software Engineer @ LTIMindtree |JAVA Full‑Stack Developer</h3>
+<h3 align="center">Software Engineer @LTM | JAVA Full‑Stack Developer</h3>
 
 
 <p align="center">
@@ -15,10 +15,10 @@
 
 ## 💫 About Me
 
-I’m a **Software Engineer at LTIMindtree**, working on **full‑stack enterprise applications**.  
+I’m a **Software Engineer at LTM**, working on **full‑stack enterprise applications**.  
 I enjoy building **robust backend services**, clean UIs, and writing **maintainable, production‑ready code**.
 
-- 💼 Current Role: **Software Engineer @ LTIMindtree**
+- 💼 Current Role: **Software Engineer @ LTM**
 - ⚙️ Experience with **Java, Spring Boot, REST APIs & Angular**
 - 🧠 Strong fundamentals in **DSA & system‑oriented problem solving**
 - 🚀 Actively preparing for **SDE‑1 / early SDE‑2 switch roles**
@@ -73,41 +73,7 @@ I enjoy building **robust backend services**, clean UIs, and writing **maintaina
 
 ---
 
-
-## 📌 Selected Work / Projects
-
-> Focused on **impact + responsibility**, not college demos
-
-- **Enterprise Module / Internal Tool**  
-  Worked on backend APIs, DB interactions, and UI integration  
-  Tech: `Spring Boot, MySQL, Angular`
-
-- **Full‑Stack Web Application**  
-  Designed REST APIs, authentication flow, and responsive frontend  
-  Tech: `Node.js, Express, MongoDB, React`
-
-*(You can later replace these with specific project names or public repos)*
-
----
-
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Titiksha1206&theme=tokyonight&show_icons=true"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Titiksha1206&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Titiksha1206&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Titiksha1206&limit=5&theme=dark&combine_all_yearly_contributions=true)
