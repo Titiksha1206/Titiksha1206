@@ -15,10 +15,10 @@
 
 ## 💫 About Me
 
-I’m a **Software Engineer at LTM**, working on **full‑stack enterprise applications**.  
+I’m a **Software Engineer at LTM (Client: Microsoft)**, working on **full‑stack enterprise applications**.  
 I enjoy building **robust backend services**, clean UIs, and writing **maintainable, production‑ready code**.
 
-- 💼 Current Role: **Software Engineer @ LTM**
+- 💼 Current Role: **Software Engineer @LTM**
 - ⚙️ Experience with **Java, Spring Boot, REST APIs & Angular**
 - 🧠 Strong fundamentals in **DSA & system‑oriented problem solving**
 - 🚀 Actively preparing for **SDE‑1 / early SDE‑2 switch roles**
@@ -48,7 +48,7 @@ I enjoy building **robust backend services**, clean UIs, and writing **maintaina
 ### ⚙️ Backend
 <img src="https://img.shields.io/badge/Spring_Core-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badgeng&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"/>
 <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
